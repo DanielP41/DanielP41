@@ -12,11 +12,11 @@
 
 <h1>About Me </h1>
 
-- 🔭: I am currently working in the Argentine Navy. ⚓
-- 🌱: I’m currently learning DataBase, JavaScript and Linux. 💻
-- 💬: My future plans include acquiring knowledge in all aspects of machine learning.🧠
-- 🤔: I’m looking for help with anything I am currently learning! 
-- ⚡  Fun fact: I like the gym, drink coffee and test productivity applications.
+-  I am currently working in the Argentine Navy. ⚓
+-  I’m currently learning DataBase, JavaScript and Linux. 
+-  My future plans include acquiring knowledge in all aspects of machine learning.🧠
+-  I’m looking for help with anything I am currently learning! 
+-  Fun fact: I like the gym, drink coffee and test productivity applications.
 
 
 
@@ -32,7 +32,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postgres,mysql,mongodb,js,nestjs,typescript,php,laravel,golang,postman,py,flask,vscode,notion,obsidian,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postgres,mysql,mongodb,js,nestjs,typescript,php,laravel,golang,postman,py,flask,vscode,notion,obsidian,jira,confluence,trello,discord&perline=14" />
   </a>
 </p>
 
