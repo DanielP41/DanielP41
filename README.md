@@ -32,7 +32,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postgres,mysql,mongodb,js,nestjs,typescript,php,laravel,golang,postman,py,flask,fastapi,vscode,notion,obsidian,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postgres,mysql,mongodb,js,nestjs,typescript,php,laravel,golang,postman,py,flask,fastapi,vscode,n8n,notion,obsidian,discord&perline=14" />
   </a>
 </p>
 
