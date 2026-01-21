@@ -14,8 +14,7 @@
 
 -  I am currently working in the Argentine Navy. ⚓
 -  I’m currently learning DataBase, JavaScript and Linux. 
--  My future plans include acquiring knowledge in all aspects of machine learning.🧠
--  I’m looking for help with anything I am currently learning! 
+-  One of my biggest goals is to become an AI Backend Engineer.🧠 
 -  Fun fact: I like the gym, drink coffee and test productivity applications.
 -  I’m currently learning Jira, Trello and Confluence (Agile Methodologies)
 
