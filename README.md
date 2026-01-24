@@ -13,7 +13,7 @@
 <h1>About Me </h1>
 
 -  I am currently working in the Argentine Navy. ⚓
--  I’m currently learning DataBase, JavaScript and Linux. 
+-  I’m currently learning JavaScript, Linux and AWS. 
 -  One of my biggest goals is to become an AI Backend Engineer.🧠 
 -  Fun fact: I like the gym, drink coffee and test productivity applications.
 -  I’m currently learning Jira, Trello and Confluence (Agile Methodologies)
