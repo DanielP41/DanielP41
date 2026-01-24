@@ -23,7 +23,7 @@
 
 
   </ul>
-       <ul align="center">        <summary><h2 style="display: inline-block">       Technologies that i know
+       <ul align="center">        <summary><h2 style="display: inline-block">             Technologies that i know
   </ul
 
   
