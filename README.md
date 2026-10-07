@@ -12,11 +12,14 @@
 
 <h1>About Me </h1>
 
--  I am currently working in the Argentine Navy. ⚓
--  I’m currently learning JavaScript, Linux and AWS. 
--  One of my biggest goals is to become an AI Backend Engineer.🧠 
--  Fun fact: I like the gym, drink coffee and test productivity applications.
--  I’m currently learning Jira, Trello and Confluence (Agile Methodologies)
+- 🔧 Backend developer working in **Go** and **Python**, focused on production APIs and LLM integration.
+- 🤖 Building with applied AI: multi-provider **RAG**, **MCP servers**, agents and LLM orchestration.
+- 🧱 I like clean architecture, async job queues with retries, JWT/RBAC, tests and Docker-based CI/CD.
+- ⚓ Before software: 14 years in the Argentine Navy (2011–2025) maintaining radar, sonar, communications and IT equipment — where I learned to troubleshoot under pressure.
+- 📜 Certified by Anthropic in MCP, the Claude API and Claude Code; English B2 (Cisco Networking Academy).
+- 🔭 Open to my first backend / AI engineering role — remote, hybrid or on-site in Buenos Aires.
+- 📫 daniell.german8@gmail.com · [LinkedIn](https://www.linkedin.com/in/daniel-ochoa-p41)
+- ☕ Fun fact: I like the gym, coffee and testing productivity apps.
 
 
 
