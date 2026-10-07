@@ -15,10 +15,9 @@
 - 🔧 Backend developer working in **Go** and **Python**, focused on production APIs and LLM integration.
 - 🤖 Building with applied AI: multi-provider **RAG**, **MCP servers**, agents and LLM orchestration.
 - 🧱 I like clean architecture, async job queues with retries, JWT/RBAC, tests and Docker-based CI/CD.
-- ⚓ Before software: 14 years in the Argentine Navy (2011–2025) maintaining radar, sonar, communications and IT equipment — where I learned to troubleshoot under pressure.
+- ⚓ Before software: 14 years in the Argentine Navy (2011–2026) maintaining radar, sonar, communications and IT equipment — where I learned to troubleshoot under pressure.
 - 📜 Certified by Anthropic in MCP, the Claude API and Claude Code; English B2 (Cisco Networking Academy).
-- 🔭 Open to backend / AI engineering role — remote, hybrid or on-site in Buenos Aires.
-- 📫 daniell.german8@gmail.com 
+- 🔭 Open to backend / AI engineering role — remote, hybrid or on-site in Buenos Aires. 
 - ☕ Fun fact: I like the gym, coffee and testing productivity apps.
 
 
