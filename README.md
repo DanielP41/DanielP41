@@ -3,7 +3,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Daniel Ochoa</h1></summary>
   </ul>
- <ul align="center">  <summary><h2 style="display: inline-block">Next Backend Developer</h2></summary>
+ <ul align="center">  <summary><h2 style="display: inline-block">Backend Developer</h2></summary>
   </ul>
 <!--h2 without bottom border-->
 <div id="user-content-toc">  
