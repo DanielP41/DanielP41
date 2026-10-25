@@ -7,7 +7,7 @@
   </ul>
 <!--h2 without bottom border-->
 <div id="user-content-toc">  
-<picture> <img align="right"src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>          
+<picture> <img align="right" src="./profile.gif" width="250px" alt="Daniel coding"></picture>          
 </div>
 
 <h1>About Me </h1>
